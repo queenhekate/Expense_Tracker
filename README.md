@@ -1,7 +1,3 @@
-Sure! Here's a clean and beginner-friendly `README.md` for your **Expense Tracker** project:
-
----
-
 # 🧾 Expense Tracker (Python CLI App)
 
 A simple command-line based **Expense Tracker** built with Python.  
